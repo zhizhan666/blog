@@ -1,0 +1,20 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 31
+  },
+  "auditLog": "/Users/lijie/project/blog/blog/logs/hooks-react-starter/.audit/.b4e5a39684f387d4bff32b894e7b4c1a032c6a24-audit.json",
+  "files": [
+    {
+      "date": 1673523300638,
+      "name": "/Users/lijie/project/blog/blog/logs/hooks-react-starter/common-error.log.2023-01-12",
+      "hash": "900264bcac846f80b5a1cf2f3f7dcd69"
+    },
+    {
+      "date": 1673576580339,
+      "name": "/Users/lijie/project/blog/blog/logs/hooks-react-starter/common-error.log.2023-01-13",
+      "hash": "7ad1dcd4cc386f090407288cfb4051fd"
+    }
+  ],
+  "hashType": "md5"
+}

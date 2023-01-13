@@ -1,0 +1,12 @@
+2023-01-12 19:35:03,321 WARN 15829 [-/::1/-/10ms GET /] NotFoundError: / Not Found
+    at notFound (/Users/lijie/project/blog/blog/node_modules/@midwayjs/koa/dist/framework.js:72:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at bodyParser (/Users/lijie/project/blog/blog/node_modules/koa-bodyparser/index.js:95:5)
+    at session (/Users/lijie/project/blog/blog/node_modules/@midwayjs/session/dist/middleware/session.js:137:17)
+    at /Users/lijie/project/blog/blog/node_modules/@midwayjs/core/dist/baseFramework.js:267:40
+    at /Users/lijie/project/blog/blog/node_modules/@midwayjs/core/dist/baseFramework.js:263:24
+    at midwayRootMiddleware (/Users/lijie/project/blog/blog/node_modules/@midwayjs/koa/dist/framework.js:78:13) {
+  code: '404',
+  cause: undefined,
+  status: 404
+}

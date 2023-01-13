@@ -1,0 +1,20 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 31
+  },
+  "auditLog": "/Users/lijie/project/blog/blog/logs/hooks-react-starter/.audit/.ff4b96651d3cf69308d77564e679f3e1afe8407a-audit.json",
+  "files": [
+    {
+      "date": 1673523300640,
+      "name": "/Users/lijie/project/blog/blog/logs/hooks-react-starter/midway-app.log.2023-01-12",
+      "hash": "c90e74fee633508758626d9b777f2357"
+    },
+    {
+      "date": 1673576580341,
+      "name": "/Users/lijie/project/blog/blog/logs/hooks-react-starter/midway-app.log.2023-01-13",
+      "hash": "0b0d392ecf92a5585ed896cf655e2a15"
+    }
+  ],
+  "hashType": "md5"
+}
